@@ -1,0 +1,37 @@
+Team 8 - Contare i posti a tavola di 2 in 2 
+
+Contare i posti a tavola di 2 in 2
+Ci s(t)iamo tutti?
+Per il pranzo di Natale, diamo una mano a nonna per preparare la tavola:
+zio Rino, la piccola Emy, zia Lucia e nonno Carlo… siamo davvero in tanti!
+Non sarà un pranzo formale, perciò non servono i segnaposto con i nomi, però
+dobbiamo verificare che ci sia un posto per ciascuno. Per essere più rapidi contiamo i
+posti a tavola di 2 in 2 e ci accorgiamo che avevamo dimenticato un posto!
+
+
+
+
+
+
+- Sistemiamo le 5 sedie attorno al tavolo
+- Contiamo le sedie di due in due
+- I componenti della famiglia sono 6
+- Tutti possono occupare un posto, tranne zio Rino
+- Zio Rino resta in piedi
+
+- Zio Rino va a cercare una sedia in cantina:
+   1. Se trova la sedia:
+      - la prende e torna a tavola
+      
+   2. Altrimenti:
+      - Esce di casa e va a chiedere la sedia al vicino:
+         a. se il vicino ce l'ha:
+            - torna a casa con la sedia e si siede a tavola
+
+         b. altrimenti:
+            - va a chiedere la sedia agli altri tre vicini:
+               1. Se trova la sedia:
+                  - la prende e torna a casa
+               
+               2. Se non la trova:
+                  - Torna a casa senza sedia e si siede sul divano
